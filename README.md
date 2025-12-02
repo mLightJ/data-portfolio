@@ -37,4 +37,4 @@ Here I document my projects, experiments, and progress as I master **data analys
 ## 🌐 Connect with Me
 - **LinkedIn:** [Your LinkedIn link]  
 - **GitHub:** [Your GitHub profile link]  
-- **Email:** [Your email address]
+- **Email:** [ojoel877@gmail.com]
