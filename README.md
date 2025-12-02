@@ -12,7 +12,8 @@ Here I document my projects, experiments, and progress as I master **data analys
 ---
 
 ## 📂 Project Categories
-- **[Excel Projects](./Excel%20Projects/)** — Data cleaning, pivot tables, dashboards  
+- **[Excel Projects](./Excel%20Projects/)** — Data cleaning, pivot tables, dashboards
+- **[SQL Projects](./SQL%20Projects/)** — 
 - **[Power BI Projects](./Power%20BI%20Projects/)** — Interactive visualizations  
 - **[Python Projects](./Python%20Projects/)** — Data analysis with Pandas, Matplotlib, and more  
 
